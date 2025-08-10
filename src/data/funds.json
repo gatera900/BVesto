@@ -1,0 +1,74 @@
+[
+  {
+    "id": "blackrock-global",
+    "name": "BlackRock Global Allocation Fund",
+    "xirr": 14.32,
+    "sip": true,
+    "invested": 560835,
+    "dayChange": 143.02,
+    "returns": 1688.74,
+    "returnsPct": 3.02,
+    "current": 14327.34,
+    "previous": 16468.83,
+    "positive": true,
+    "spark": [100,102,104,103,105,108,110,107,111,115,118,120]
+  },
+  {
+    "id": "schwab-index",
+    "name": "Schwab Market Index Fund",
+    "xirr": 12.77,
+    "sip": true,
+    "invested": 805002,
+    "dayChange": -283.62,
+    "returns": 1826.37,
+    "returnsPct": -5.94,
+    "current": 15835.53,
+    "previous": 17347.3,
+    "positive": false,
+    "spark": [120,118,116,117,114,112,110,111,108,106,104,103]
+  },
+  {
+    "id": "dodge-cox",
+    "name": "Dodge & Cox Stock Fund",
+    "xirr": 15.49,
+    "sip": true,
+    "invested": 30264.83,
+    "dayChange": 264.84,
+    "returns": 3836.36,
+    "returnsPct": 6.83,
+    "current": 27934.62,
+    "previous": 0,
+    "positive": true,
+    "spark": [95,96,99,101,100,104,106,108,110,112,114,117]
+  },
+  {
+    "id": "fidelity-bond",
+    "name": "Fidelity Total Bond Fund",
+    "xirr": 11.67,
+    "sip": true,
+    "invested": 21617.9,
+    "dayChange": -212.33,
+    "returns": 5855.34,
+    "returnsPct": -6.52,
+    "current": 24528.56,
+    "previous": 29227.53,
+    "positive": false,
+    "spark": [110,107,105,104,103,100,98,96,95,94,93,92]
+  },
+  {
+    "id": "vanguard-500",
+    "name": "Vanguard 500 Index Fund",
+    "xirr": 14.97,
+    "sip": true,
+    "invested": 14917.4,
+    "dayChange": 356.94,
+    "returns": 3714.35,
+    "returnsPct": 9.37,
+    "current": 13837.92,
+    "previous": 16363.84,
+    "positive": true,
+    "spark": [100,101,103,105,106,108,110,112,111,113,115,116]
+  }
+]
+
+
