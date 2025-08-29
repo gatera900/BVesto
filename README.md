@@ -105,6 +105,7 @@ export default function MarketsPage() {
    Visit [http://localhost:5173](http://localhost:5173) to view the app.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ## Deployment (Vercel)
 
@@ -115,12 +116,15 @@ export default function MarketsPage() {
 5. Click **Deploy** and get your live URL!
 
 >>>>>>> 8b0491b (Add vite as a dev dependency)
+=======
+>>>>>>> d97dd08 (Remove initial login and code complete screen)
 ## License
 
 MIT
 
 ---
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 _Built with using React, TypeScript, and Vite._
 
@@ -130,3 +134,6 @@ An investment system built with react typescript
 =======
 _Built with ❤️ using React, TypeScript, and Vite._
 >>>>>>> 8b0491b (Add vite as a dev dependency)
+=======
+_Built with using React, TypeScript, and Vite._
+>>>>>>> d97dd08 (Remove initial login and code complete screen)
