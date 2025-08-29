@@ -93,18 +93,10 @@ export default function MarketsPage() {
 4. **Open your browser:**  
    Visit [http://localhost:5173](http://localhost:5173) to view the app.
 
-## Deployment (Vercel)
-
-1. Push your code to GitHub.
-2. Go to [vercel.com](https://vercel.com/) and import your repository.
-3. Vercel will auto-detect the React/Vite setup.
-4. Set the build command to `vite build` and output directory to `dist` if prompted.
-5. Click **Deploy** and get your live URL!
-
 ## License
 
 MIT
 
 ---
 
-_Built with ❤️ using React, TypeScript, and Vite._
+_Built with using React, TypeScript, and Vite._
