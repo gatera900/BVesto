@@ -12,8 +12,8 @@ import MarketsPage from "./pages/Markets";
 import WatchlistPage from "./pages/Watchlist";
 import TransactionsPage from "./pages/Transactions";
 import AdminPage from "./pages/Admin";
-
-import { useAuth } from "./store/auth";
+//import AuthPage from "./pages/Auth";
+//import { useAuth } from "./store/auth";
 import AllocationCard from "./components/dashboard/AllocationCard";
 import PerformanceSection from "./components/dashboard/PerformanceSection";
 import RecentTransactions from "./components/dashboard/RecentTransactions";
@@ -30,10 +30,11 @@ export default function App() {
     () => fundsData.find((f) => f.id === selectedId) ?? fundsData[0],
     [selectedId]
   );
-  const isAuthenticated = useAuth((s) => s.isAuthenticated);
+  //  const isAuthenticated = useAuth((s) => s.isAuthenticated);
 
   return (
     <BrowserRouter>
+      {/* {!isAuthenticated && <AuthPage />} */}
       <div className="min-h-screen grid grid-cols-12">
         <aside className="col-span-12 md:col-span-2 xl:col-span-2 border-r border-white/10">
           <Sidebar />
